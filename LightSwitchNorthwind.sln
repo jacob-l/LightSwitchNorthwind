@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{581633EB-B896-402F-8E60-36F3DA191C85}") = "LightSwitchNorthwind", "LightSwitchNorthwind\LightSwitchNorthwind.lsxtproj", "{5CBB0BA1-7701-46A7-ADEA-67A355401233}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LightSwitchNorthwind.Server", "LightSwitchNorthwind\LightSwitchNorthwind.Server\LightSwitchNorthwind.Server.csproj", "{7B7FC7DC-34C7-4223-ADB7-6007F033C131}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LightSwitchNorthwind.DesktopClient", "LightSwitchNorthwind\LightSwitchNorthwind.DesktopClient\LightSwitchNorthwind.DesktopClient.csproj", "{0155C1EC-0006-4A7D-83E1-51A708D34C60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CBB0BA1-7701-46A7-ADEA-67A355401233}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CBB0BA1-7701-46A7-ADEA-67A355401233}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CBB0BA1-7701-46A7-ADEA-67A355401233}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CBB0BA1-7701-46A7-ADEA-67A355401233}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B7FC7DC-34C7-4223-ADB7-6007F033C131}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B7FC7DC-34C7-4223-ADB7-6007F033C131}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B7FC7DC-34C7-4223-ADB7-6007F033C131}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B7FC7DC-34C7-4223-ADB7-6007F033C131}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0155C1EC-0006-4A7D-83E1-51A708D34C60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0155C1EC-0006-4A7D-83E1-51A708D34C60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0155C1EC-0006-4A7D-83E1-51A708D34C60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0155C1EC-0006-4A7D-83E1-51A708D34C60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
